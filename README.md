@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I see datasets like puzzles — and I love solving them piece by piece.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://fb.com/ali turk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali turk" height="30" width="40" /></a>
 <a href="https://instagram.com/ali_turk_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali_turk_23" height="30" width="40" /></a>
